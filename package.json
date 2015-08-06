@@ -1,0 +1,13 @@
+{
+  "title": "GamepadNav",
+  "name": "gamepadnav",
+  "version": "0.0.1",
+  "description": "Allows navigation using gamepad",
+  "main": "index.js",
+  "author": "Daniel Nowak",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
